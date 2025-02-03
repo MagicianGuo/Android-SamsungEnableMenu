@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">SamsungEnableMenu</string>
+    <string name="xposed_description">多任务键长按时执行菜单操作</string>
 </resources>

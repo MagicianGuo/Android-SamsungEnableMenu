@@ -35,4 +35,7 @@ dependencies {
 //    testImplementation libs.junit
 //    androidTestImplementation libs.ext.junit
 //    androidTestImplementation libs.espresso.core
+
+    compileOnly files("libs/libxposed-api-debug.aar")
+    compileOnly project(":libxposed-compat")
 }

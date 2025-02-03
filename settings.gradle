@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "SamsungEnableMenu"
 include ':SamsungEnableMenu'
+include ':libxposed-compat'
